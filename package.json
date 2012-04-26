@@ -15,8 +15,7 @@
     "node": ">=0.4.8"
   },
   "dependencies": {
-    "uglify-js": ">=1.0.2",
-    "winston": "0.5.10"
+    "uglify-js": ">=1.0.2"
   },
   "devDependencies": {
     "express": ">=2.3.11",
